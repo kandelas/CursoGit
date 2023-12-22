@@ -1,0 +1,14 @@
+:root{
+    --color-title: rgb(248, 244, 4) ;
+    --color-parraf:rgb(6, 236, 6);
+    --color-backgraund:black;
+    --color--principal:rgb(143, 255, 218);
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: content-box;
+    font-family: monospace;
+    background-color: var(--color-backgraund);
+    color: var(--color--principal);
+}
