@@ -6,5 +6,9 @@
 4.-linea cuatro
 
 
+<<<<<<< Updated upstream
 
 # actualizacion
+=======
+ejercicio de stash
+>>>>>>> Stashed changes
