@@ -7,7 +7,7 @@ segunda prueba
 ## carpeta de proton
 
 **<jonathanandrango@protonmail.com>**
-2468 contraseña de carpeta
+ contraseña de carpeta
 
 **carpeta compartida**
 <https://drive.proton.me/urlsKDME4H4FCG#OUo6y0vw5aTR>
