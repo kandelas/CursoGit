@@ -8,7 +8,7 @@ segunda prueba
 
 **<jonathanandrango@protonmail.com>**
  contraseña de carpeta
-
+## esto es agregado desde git hub y traido hasta el local con it pull
 **carpeta compartida**
 <https://drive.proton.me/urlsKDME4H4FCG#OUo6y0vw5aTR>
 
